@@ -1,6 +1,6 @@
 import socket
 from ipwhois import IPWhois
-from pprint import ppring 
+from pprint import pprint
 
 print()
 print("  ╦ ╦┬ ┬┌─┐┬┌─┐ ")
