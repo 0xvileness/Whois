@@ -1,5 +1,5 @@
 import socket
-import ipwhois import IPWhois
+from ipwhois import IPWhois
 from pprint import ppring 
 
 print()
