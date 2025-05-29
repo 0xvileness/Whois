@@ -4,6 +4,6 @@ cd Whois
 
 pip3 install ipwhois
 
-pip3 install pprintpp
+pip3 install pprint
 
 python3 whois.py
