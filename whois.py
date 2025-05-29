@@ -9,7 +9,7 @@ print("  ╚╩╝┴ ┴└─┘┴└─┘ ")
 print(" Made By @Oxycrime ")
 print()
 
-target = input("Enter Website")
+target = input("Enter Website:")
 
 #get ip of the server
 ip = socket.gethostbyname(target)
